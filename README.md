@@ -17,6 +17,8 @@ This data would not be used on future customers or for real life prediction.
 # Initial hypotheses and/or questions you have of the data, ideas:
 
 # Data dictionary:
+<img width="755" alt="Data Dictionary" src="https://github.com/Chellyann-moreno/regression-project/assets/126615525/e7c8f62c-11a3-49cf-931e-d80f2ebc40f2">
+
 
 # Instructions on how someone else can reproduce your project and findings:
 For an user to succesfully reproduce this project, they must have a connection to the CodeUp Server in MySQL. User must have a "env.py" with the username, password, and database name, to establish a connection. Also, the wrangle.py, explore.py and evaluate.py must be download in the same repository/folder as the final_report to run it successfully. Once all files are download, user may run the final_report notebook.
